@@ -76,6 +76,8 @@ export default function LoginPage() {
 
                 {loading ? 'Login Now...' : 'Login Now'}
             </button>
+
+            <h1>samimhos@gmail.com</h1>
             <Link href='/signup'>
                 visit to login
             </Link>
